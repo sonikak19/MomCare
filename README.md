@@ -1,11 +1,11 @@
-# MedPredict - Advanced Maternal and Fetal Health Prediction Platform
+# MomCare - Advanced Maternal and Fetal Health Prediction Platform
 
 ## Introduction
 
-Welcome to MedPredict, an innovative platform dedicated to advancing maternal and fetal health through predictive analysis. MedPredict empowers healthcare professionals and users alike by providing accurate predictions and proactive risk management related to pregnancy.
+Welcome to MomCare, an innovative platform dedicated to advancing maternal and fetal health through predictive analysis. MomCare empowers healthcare professionals and users alike by providing accurate predictions and proactive risk management related to pregnancy.
 
 ### Webapp URL
-MedPredict: [MedPredict link](https://maternalcare-cbupxflodo4uhz8hzqqqng.streamlit.app/)
+MomCare: [MomCare link](https://maternalcare-cbupxflodo4uhz8hzqqqng.streamlit.app/)
 
 ## Key Features
 
@@ -15,16 +15,6 @@ MedPredict: [MedPredict link](https://maternalcare-cbupxflodo4uhz8hzqqqng.stream
 
 - **Dashboard:** Our Dashboard provides a user-friendly interface for monitoring and managing health data. It offers a holistic view of predictive analyses, allowing healthcare professionals and users to make informed decisions. The Dashboard is designed for ease of use and accessibility.
 
-<p align="center">
-    <img src="./graphics/about%20us.png" alt="About us" width="400" height  = "200"/> <img src="./graphics/preganancy_risk_Prediction.png" alt="preganancy_risk_Prediction" width="400" height  = "200"/>
-
-</p>
-
-<p align="center">
-    <img src="./graphics/fetal_health_prediction.png" alt="fetal_health_prediction" width="400" height  = "200"/> <img src="./graphics/dashboard.png" alt="dashboard" width="400" height  = "200"/>
-
-</p>
-
 ## How to Run the Streamlit Code
 
 Follow these steps to run the Streamlit code locally:
@@ -32,7 +22,7 @@ Follow these steps to run the Streamlit code locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medpredict.git
+git clone https://github.com/sonikak19/medpredict.git
 cd medpredict
 ```
 ### Install Dependencies
